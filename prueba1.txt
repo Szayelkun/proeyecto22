@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 hola mundo hola hola
 
 <h1>
 
 estoo es una prueba
+=======
+prueba
+
+
+esto es una prueb
+
+
+
+esto es otr prueba para la sig rama
+>>>>>>> rama3
